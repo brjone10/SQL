@@ -1,2 +1,0 @@
-# SQL
-Bree SQL Portfolio

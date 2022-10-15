@@ -1,4 +1,4 @@
--- Customer id full name from customers not in US
+-- Customer ID full name from customers not in US
 Select customerid, firstname, lastname, country
 from chinook.customers
 where country <> ‘%USA%’;
